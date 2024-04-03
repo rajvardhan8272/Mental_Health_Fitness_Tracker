@@ -29,4 +29,4 @@ To use the Mental Health Fitness Tracker, ensure you have the necessary dependen
 `pip install numpy pandas seaborn matplotlib plotly scikit-learn`
 Next, run the provided code to load the data and train the machine learning models. Modify and customize the application as needed to suit your specific use case and target audience.
 
-For any questions, suggestions, or feedback, please reach out to kabirsharma2607@gmail.com . We welcome your input to improve and enhance the Mental Health Fitness Tracker.
+For any questions, suggestions, or feedback, please reach out to rajvardhan8272@gmail.com . We welcome your input to improve and enhance the Mental Health Fitness Tracker.
